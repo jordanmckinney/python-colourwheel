@@ -31,10 +31,10 @@ The pattern below and to the left has `5` point 'stars', `5` spokes, and is usin
 
 ## Themes
 
-| <center>`1` 50 shades of Pink:        | `2` Ice Cream:   |
+| <center>`1` 50 shades of Pink: </center>       |<center> `2` Ice Cream: </center>  |
 | ------------- |:-------------:|
 | <img src="http://www.color-hex.com/palettes/1880.png" alt="Drawing" style="width: 330px;"/> | <img src="http://www.color-hex.com/palettes/660.png" alt="Drawing" style="width: 330px;"/> |
-| <center>`3` **Pastel:**     | <center>`4` **Vice City:**  |
+| <center>`3` **Pastel:** </center>    | <center>`4` **Vice City:** </center> |
 | <img src="http://www.color-hex.com/palettes/2922.png" alt="Drawing" style="width: 330px;"/> | <img src="http://www.color-hex.com/palettes/7648.png" alt="Drawing" style="width: 330px;"/>|
 
 ## Gallery
