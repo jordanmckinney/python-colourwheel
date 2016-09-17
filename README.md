@@ -4,9 +4,7 @@
 
 Thank you for trying 265 Draw. This application will allow you to create incredible patterns like those shown below.
 
-![test](http://www.jordanmmckinney.com/images/stars11.png | width=100)
-
-<img src="http://www.jordanmmckinney.com/images/stars11.png" style="width: 300px;"/> <img src="http://www.jordanmmckinney.com/images/stars2.png" alt="Drawing" style="width: 300px;"/>
+<img src="http://www.jordanmmckinney.com/images/stars11.png" width="300"/> <img src="http://www.jordanmmckinney.com/images/stars2.png" alt="Drawing" style="width: 300px;"/>
 
 ## Creating a Pattern
 
