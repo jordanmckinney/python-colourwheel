@@ -4,7 +4,7 @@
 
 Thank you for trying 265 Draw. This application will allow you to create incredible patterns like those shown below.
 
-<img src="http://www.jordanmmckinney.com/images/stars11.png" style="width: 330px;"/> <img src="http://www.jordanmmckinney.com/images/stars2.png" alt="Drawing" style="width: 330px;"/>
+<img src="http://www.jordanmmckinney.com/images/stars11.png" style="width: 300px;"/> <img src="http://www.jordanmmckinney.com/images/stars2.png" alt="Drawing" style="width: 300px;"/>
 
 ## Creating a Pattern
 
@@ -39,8 +39,8 @@ The pattern below and to the left has `5` point 'stars', `5` spokes, and is usin
 
 ## Gallery
 
-<img src="http://www.jordanmmckinney.com/images/stars7_.png" style="width: 330px;"/> <img src="http://www.jordanmmckinney.com/images/stars5.png" alt="Drawing" style="width: 330px;"/>
+<img src="http://www.jordanmmckinney.com/images/stars7.png" style="width: 330px;"/> <img src="http://www.jordanmmckinney.com/images/stars5.png" alt="Drawing" style="width: 330px;"/>
 
-<img src="http://www.jordanmmckinney.com/images/stars8_.png" style="width: 330px;"/> <img src="http://www.jordanmmckinney.com/images/stars10.png" alt="Drawing" style="width: 330px;"/>
+<img src="http://www.jordanmmckinney.com/images/stars8.png" style="width: 330px;"/> <img src="http://www.jordanmmckinney.com/images/stars10.png" alt="Drawing" style="width: 330px;"/>
 
-<img src="http://www.jordanmmckinney.com/images/stars9_.png" style="width: 330px;"/> <img src="http://www.jordanmmckinney.com/images/stars.png" alt="Drawing" style="width: 330px;"/>
+<img src="http://www.jordanmmckinney.com/images/stars9.png" style="width: 330px;"/> <img src="http://www.jordanmmckinney.com/images/stars.png" alt="Drawing" style="width: 330px;"/>
