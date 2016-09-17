@@ -80,7 +80,7 @@ if len(files_list)>0:
                     line.rotate(angle)
                     line.scale(factor)
                     line.translate(delta_x,delta_y)
-                    print 'line', line
+                    print ('line', line)
                     
                     
 # read lines from stdin and perform rotate, scale, translate on them
@@ -94,7 +94,7 @@ else:
             line.rotate(angle)
             line.scale(factor)
             line.translate(delta_x,delta_y)
-            print 'line', line
+            print ('line', line)
             
             
             

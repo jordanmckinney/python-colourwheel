@@ -29,6 +29,6 @@ p0 = Line_Point.Point(x0, y0)
 p1 = Line_Point.Point(p0.x, p0.y+25)
 central_angle = 2 * math.pi / s
 while s > 0:
-	print 'line', Line_Point.Line(p0, p1)
+	print( 'line', Line_Point.Line(p0, p1))
 	p1.rotate(central_angle)
 	s = s - 1
